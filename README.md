@@ -6,9 +6,9 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7C3AED,100:22C55E&height=190&section=header&text=Emerson%20Carvalho&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Emerson Carvalho" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:7C3AED,100:22C55E&text=Emerson%20Carvalho&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Software%20Developer%20%7C%20AI%20Builder%20%7C%20Hacker%20Mindset&descSize=18&descAlignY=62" alt="Emerson Carvalho" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+Hacker+Mindset;Python+%E2%80%A2+TypeScript+%E2%80%A2+Linux+%E2%80%A2+APIs;AI+Builders+%E2%80%A2+Automation+%E2%80%A2+Cybersecurity;Code.+Break.+Secure.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Building+AI+Systems+for+the+Future;Cybersecurity+%E2%80%A2+Automation+%E2%80%A2+Agents;Python+%E2%80%A2+TypeScript+%E2%80%A2+Linux+%E2%80%A2+APIs;Think.+Build.+Hack.+Secure." alt="Typing SVG" />
 
   <br><br>
 
