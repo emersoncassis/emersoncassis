@@ -1,3 +1,9 @@
+<div align="right">
+
+[🇧🇷 Português](./README.pt-br.md)
+
+</div>
+
 <div align="center">
   <h1>Hi 👋, I'm Emerson Assis</h1>
 
