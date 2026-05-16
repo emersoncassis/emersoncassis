@@ -43,10 +43,17 @@
   <a href="https://github.com/emersoncassis/clima-cli">
     <img src="https://img.shields.io/badge/Current%20Project-clima--cli-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Current Project clima-cli" />
   </a>
+  <a href="https://github.com/emersoncassis/inversa">
+    <img src="https://img.shields.io/badge/Reversa%20Fork-inversa-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Reversa fork inversa" />
+  </a>
 
   <br><br>
 
-  <a href="https://physia.com.br/aieng/">🌐 Visit AI Engineering Program</a> • <a href="https://github.com/emersoncassis/aieng">📚 Study Repository</a>
+  <strong>Reversa</strong> is a learning tool created by Prof. Sandeco to support software engineering studies through practical exploration.
+
+  <br><br>
+
+  <a href="https://physia.com.br/aieng/">🌐 Visit AI Engineering Program</a> • <a href="https://github.com/emersoncassis/aieng">📚 Study Repository</a> • <a href="https://github.com/emersoncassis/inversa">🧩 Reversa Fork</a>
 </div>
 
 ---
