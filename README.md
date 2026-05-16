@@ -38,7 +38,10 @@
   <br><br>
 
   <a href="https://github.com/emersoncassis/aieng">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emersoncassis&repo=aieng&theme=tokyonight&hide_border=false&title_color=39FF14&icon_color=39FF14" alt="aieng repository" />
+    <img src="https://img.shields.io/badge/Study%20Repository-aieng-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" alt="Study Repository aieng" />
+  </a>
+  <a href="https://github.com/emersoncassis/clima-cli">
+    <img src="https://img.shields.io/badge/Current%20Project-clima--cli-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Current Project clima-cli" />
   </a>
 
   <br><br>
