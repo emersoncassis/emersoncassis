@@ -72,6 +72,18 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emersoncassis&show_icons=true&theme=tokyonight&hide_border=true&title_color=39FF14&icon_color=39FF14" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersoncassis&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14" alt="Langs" />
+
+  <img src="https://img.shields.io/badge/GitHub-emersoncassis-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20Security-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=emersoncassis&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+  <br><br>
+
+  <a href="https://github.com/emersoncassis?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" alt="View repositories" />
+  </a>
+  <a href="https://github.com/emersoncassis?tab=followers">
+    <img src="https://img.shields.io/badge/Connect%20on%20GitHub-0F172A?style=for-the-badge&logo=github&logoColor=39FF14" alt="Connect on GitHub" />
+  </a>
+
 </div>
