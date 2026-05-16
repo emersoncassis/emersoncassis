@@ -5,7 +5,8 @@
 </div>
 
 <div align="center">
-  <h1>Hi 👋, I'm Emerson Carvalho</h1>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7C3AED,100:22C55E&height=190&section=header&text=Emerson%20Carvalho&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Emerson Carvalho" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+Hacker+Mindset;Python+%E2%80%A2+TypeScript+%E2%80%A2+Linux+%E2%80%A2+APIs;AI+Builders+%E2%80%A2+Automation+%E2%80%A2+Cybersecurity;Code.+Break.+Secure.+Repeat." alt="Typing SVG" />
 
