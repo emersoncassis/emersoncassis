@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://physia.com.br/aieng/">
-    <img src="https://img.shields.io/badge/AI_ENGINEERING-PHYSIA-39FF14?style=for-the-badge&logo=openai&logoColor=000000" alt="PhysIA AI Engineering" />
+    <img src="https://physia.com.br/aieng/capa.png" alt="Engenharia de Software e Agentes Inteligentes" width="260" />
   </a>
 
   <br><br>
