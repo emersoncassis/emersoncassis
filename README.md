@@ -37,7 +37,13 @@
 
   <br><br>
 
-  <a href="https://physia.com.br/aieng/">🌐 Visit AI Engineering Program</a>
+  <a href="https://github.com/emersoncassis/aieng">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emersoncassis&repo=aieng&theme=tokyonight&hide_border=false&title_color=39FF14&icon_color=39FF14" alt="aieng repository" />
+  </a>
+
+  <br><br>
+
+  <a href="https://physia.com.br/aieng/">🌐 Visit AI Engineering Program</a> • <a href="https://github.com/emersoncassis/aieng">📚 Study Repository</a>
 </div>
 
 ---
