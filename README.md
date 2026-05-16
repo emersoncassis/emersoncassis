@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi 👋, I'm Emerson Assis</h1>
+  <h1>Hi 👋, I'm Emerson Carvalho</h1>
 
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Applied+to+Real+Business;Infrastructure+%26+Network+Automation;LLMs+%E2%80%A2+Python+%E2%80%A2+TypeScript;Security+Systems+%E2%80%A2+APIs+%E2%80%A2+Agents&center=true&width=620&height=45&color=39FF14" alt="Typing SVG" />
 
