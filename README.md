@@ -7,9 +7,18 @@
 <div align="center">
   <h1>Hi 👋, I'm Emerson Carvalho</h1>
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Applied+to+Real+Business;Infrastructure+%26+Network+Automation;LLMs+%E2%80%A2+Python+%E2%80%A2+TypeScript;Security+Systems+%E2%80%A2+APIs+%E2%80%A2+Agents&center=true&width=620&height=45&color=39FF14" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+Hacker+Mindset;Python+%E2%80%A2+TypeScript+%E2%80%A2+Linux+%E2%80%A2+APIs;AI+Builders+%E2%80%A2+Automation+%E2%80%A2+Cybersecurity;Code.+Break.+Secure.+Repeat." alt="Typing SVG" />
 
-  <p><strong>Building practical solutions with AI, infrastructure, networks and security automation.</strong></p>
+  <br><br>
+
+  <p><strong>Building practical solutions with AI, automation, infrastructure and cybersecurity.</strong></p>
+
+  <a href="https://inredescloud.base44.app/">
+    <img src="https://img.shields.io/badge/MAIN_PROJECT-INREDES.CLOUD-39FF14?style=for-the-badge&logo=cloudflare&logoColor=000000" alt="inredes.cloud" />
+  </a>
+  <a href="https://br.linkedin.com/in/emerson-assis-b19b328a">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
