@@ -23,12 +23,20 @@
 
 ---
 
-### 🚀 Top Project
+### 🚀 Top Project I'm Studying
 
 <div align="center">
-  <a href="https://github.com/emersoncassis/IC-Chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emersoncassis&repo=IC-Chat&theme=tokyonight&hide_border=false&title_color=39FF14&icon_color=39FF14" alt="IC-Chat" />
+  <a href="https://physia.com.br/aieng/">
+    <img src="https://img.shields.io/badge/AI_ENGINEERING-PHYSIA-39FF14?style=for-the-badge&logo=openai&logoColor=000000" alt="PhysIA AI Engineering" />
   </a>
+
+  <br><br>
+
+  <strong>Studying AI Engineering to build production-ready AI systems, agents, automations and intelligent workflows.</strong>
+
+  <br><br>
+
+  <a href="https://physia.com.br/aieng/">🌐 Visit AI Engineering Program</a>
 </div>
 
 ---
