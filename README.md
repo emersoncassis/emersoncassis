@@ -22,6 +22,7 @@
   </a>
 </div>
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/emersoncassis)
 ---
 
 ### 🚀 Top Project I'm Studying
